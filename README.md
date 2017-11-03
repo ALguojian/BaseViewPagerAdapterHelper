@@ -1,6 +1,6 @@
 # BaseViewPagerAdapterHelper
 
-[![](https://www.jitpack.io/v/ALguojian/BaseViewPagerAdapterHelper.svg)](https://www.jitpack.io/#ALguojian/BaseViewPagerAdapterHelper)
+[![](https://jitpack.io/v/ALguojian/BaseViewPagerAdapterHelper.svg)](https://jitpack.io/#ALguojian/BaseViewPagerAdapterHelper)
 
 1.Add it in your root build.gradle at the end of repositories:
 
@@ -16,10 +16,10 @@ allprojects {
 2.Add the dependency
 
 ```
-	dependencies {
+		dependencies {
+    	        compile 'com.github.ALguojian:BaseViewPagerAdapterHelper:1.2'
+    	}
 
-	     compile 'com.github.ALguojian:BaseViewPagerAdapterHelper:1.0'
-	}
 
 ```
 
