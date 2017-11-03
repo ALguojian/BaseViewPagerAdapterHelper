@@ -17,6 +17,9 @@ import com.alguojian.library.RotateYTransformer;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author ALguojian
+ */
 public class MainActivity extends AppCompatActivity {
 
     protected ViewPager viewPager;
